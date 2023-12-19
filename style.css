@@ -1,0 +1,95 @@
+h1 {
+    text-align: center;
+    color: chartreuse;
+}
+p
+h2 {
+    text-align: center;
+    color: blue;
+}
+h3 {
+    text-align: center;
+    color: black;
+}
+h4 {
+    text-align: center;
+    color: blueviolet;
+}
+h5 {
+    text-align: center;
+    color: aqua;
+}
+h6 { 
+    text-align: center;
+    color: darkblue;
+hr {
+    width: auto;
+    height: 30px;
+    background-color: brown;
+}
+p {
+    color: white;
+    background-color: brown;
+    
+}
+h1 {
+    color: white;
+    background-color: brown;
+}
+h2 {
+    color: aqua;
+    background-color: brown;
+}
+h3 {
+    color: aqua;
+    background-color: brown;
+}
+h4 {
+    color: aqua;
+    background-color: brown;
+}
+h5 {
+    color: aqua;
+    background-color: brown;
+}
+h6 {
+    color: aqua;
+    background-color: brown;
+}
+}
+body{
+    background: rgb(47, 207, 15)2;
+background: linear-gradient(90deg, rgb(131, 201, 124) 0%, rgb(20, 20, 143) 35%,rgb(255, 0, 0)) 100%;
+}
+p{
+    color: blue;
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 10px;
+    border: solid 2px red;
+}
+#p1{
+    color: blue;
+}
+#p3{
+    color: rgb(0, 233, 194)
+}
+#p5{
+    color: rgb(255, 0, 0);
+}
+.divOne{
+    border: solid 5px blue;
+    background-color: limegreen;
+    text-align: center;
+}
+.divOne{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+}
+
+.divTwo {
+    width:100px;
+    height:100px;
+    background-color: yellow;
+}

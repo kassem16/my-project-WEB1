@@ -1,0 +1,37 @@
+#banner{
+    height: 500px;
+    width: 100%;
+}
+
+#mountains{
+    height: 500px;
+    width: 100%;
+}
+
+
+#mountains{
+    text-align: center;
+    justify-content: center;
+}
+
+#nature{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#forest{
+    text-align: center;
+    justify-content: center;
+}
+
+#forest{
+    width: 600px;
+    height: 350px;
+}
+
+#lakes{
+    width: 600px;
+    height: 350px;
+}
+

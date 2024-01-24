@@ -18,12 +18,10 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    
 }
 
-#forest{
-    text-align: center;
-    justify-content: center;
-}
+
 
 #forest{
     width: 600px;
